@@ -2,20 +2,6 @@
 
 Our prototype experiment demonstrates that under typical daily bandwidth network conditions, EZchain's performance in all aspects approaches that of the accounts in centralized payment systems. This provides a solid infrastructure for realizing mobile payments in web3.0.
 
-## arXiv: 
-
-Here is the [arXiv link](https://arxiv.org/abs/2312.00281). Cite this work by:
-```
-@misc{xue2023scaleout,
-    title={A Scale-out Decentralized Blockchain Ledger System for Web3.0},
-    author={Lide Xue and Wei Yang and Wei Li},
-    year={2023},
-    eprint={2312.00281},
-    archivePrefix={arXiv},
-    primaryClass={cs.CR}
-}
-```
-
 ## Highlights
 
 * Scalability: System throughput is directly proportional to node size, not constrained by bandwidth resources.
